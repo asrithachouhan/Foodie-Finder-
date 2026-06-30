@@ -32,17 +32,6 @@ Foodie Finder is a full-stack AI recipe recommendation platform built with a RES
 | Frontend | [Add your frontend tech, e.g. HTML/CSS/JS] |
 
 ## 🏗️ Architecture
-foodie-finder/
-├── app.py                 # Application entry point
-├── controllers/            # Request handling logic
-├── models/                  # Data models & schemas
-├── services/                # External API integration & caching
-├── utils/                   # Input preprocessing, rate limiting
-├── static/                  # CSS, JS, images
-├── templates/                # HTML templates
-├── requirements.txt
-└── README.md
-## 🏗️ Architecture
 
 Foodie Finder follows a modular MVC (Model-View-Controller) design to keep concerns cleanly separated and the codebase easy to extend.
 
